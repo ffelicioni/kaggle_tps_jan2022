@@ -1,0 +1,216 @@
+Date,Country,LocalName,Name,Fixed
+2015-01-01,Finland,Uudenvuodenpäivä,New Year's Day,True
+2015-01-06,Finland,Loppiainen,Epiphany,True
+2015-04-03,Finland,Pitkäperjantai,Good Friday,False
+2015-04-05,Finland,Pääsiäispäivä,Easter Sunday,False
+2015-04-06,Finland,2. pääsiäispäivä,Easter Monday,False
+2015-05-01,Finland,Vappu,May Day,True
+2015-05-14,Finland,Helatorstai,Ascension Day,False
+2015-05-24,Finland,Helluntaipäivä,Pentecost,False
+2015-06-19,Finland,Juhannusaatto,Midsummer Eve,False
+2015-06-20,Finland,Juhannuspäivä,Midsummer Day,False
+2015-10-31,Finland,Pyhäinpäivä,All Saints' Day,False
+2015-12-06,Finland,Itsenäisyyspäivä,Independence Day,True
+2015-12-24,Finland,Jouluaatto,Christmas Eve,True
+2015-12-25,Finland,Joulupäivä,Christmas Day,True
+2015-12-26,Finland,2. joulupäivä,St. Stephen's Day,True
+2016-01-01,Finland,Uudenvuodenpäivä,New Year's Day,True
+2016-01-06,Finland,Loppiainen,Epiphany,True
+2016-03-25,Finland,Pitkäperjantai,Good Friday,False
+2016-03-27,Finland,Pääsiäispäivä,Easter Sunday,False
+2016-03-28,Finland,2. pääsiäispäivä,Easter Monday,False
+2016-05-01,Finland,Vappu,May Day,True
+2016-05-05,Finland,Helatorstai,Ascension Day,False
+2016-05-15,Finland,Helluntaipäivä,Pentecost,False
+2016-06-24,Finland,Juhannusaatto,Midsummer Eve,False
+2016-06-25,Finland,Juhannuspäivä,Midsummer Day,False
+2016-11-05,Finland,Pyhäinpäivä,All Saints' Day,False
+2016-12-06,Finland,Itsenäisyyspäivä,Independence Day,True
+2016-12-24,Finland,Jouluaatto,Christmas Eve,True
+2016-12-25,Finland,Joulupäivä,Christmas Day,True
+2016-12-26,Finland,2. joulupäivä,St. Stephen's Day,True
+2017-01-01,Finland,Uudenvuodenpäivä,New Year's Day,True
+2017-01-06,Finland,Loppiainen,Epiphany,True
+2017-04-14,Finland,Pitkäperjantai,Good Friday,False
+2017-04-16,Finland,Pääsiäispäivä,Easter Sunday,False
+2017-04-17,Finland,2. pääsiäispäivä,Easter Monday,False
+2017-05-01,Finland,Vappu,May Day,True
+2017-05-25,Finland,Helatorstai,Ascension Day,False
+2017-06-04,Finland,Helluntaipäivä,Pentecost,False
+2017-06-23,Finland,Juhannusaatto,Midsummer Eve,False
+2017-06-24,Finland,Juhannuspäivä,Midsummer Day,False
+2017-11-04,Finland,Pyhäinpäivä,All Saints' Day,False
+2017-12-06,Finland,Itsenäisyyspäivä,Independence Day,True
+2017-12-24,Finland,Jouluaatto,Christmas Eve,True
+2017-12-25,Finland,Joulupäivä,Christmas Day,True
+2017-12-26,Finland,2. joulupäivä,St. Stephen's Day,True
+2018-01-01,Finland,Uudenvuodenpäivä,New Year's Day,True
+2018-01-06,Finland,Loppiainen,Epiphany,True
+2018-03-30,Finland,Pitkäperjantai,Good Friday,False
+2018-04-01,Finland,Pääsiäispäivä,Easter Sunday,False
+2018-04-02,Finland,2. pääsiäispäivä,Easter Monday,False
+2018-05-01,Finland,Vappu,May Day,True
+2018-05-10,Finland,Helatorstai,Ascension Day,False
+2018-05-20,Finland,Helluntaipäivä,Pentecost,False
+2018-06-22,Finland,Juhannusaatto,Midsummer Eve,False
+2018-06-23,Finland,Juhannuspäivä,Midsummer Day,False
+2018-11-03,Finland,Pyhäinpäivä,All Saints' Day,False
+2018-12-06,Finland,Itsenäisyyspäivä,Independence Day,True
+2018-12-24,Finland,Jouluaatto,Christmas Eve,True
+2018-12-25,Finland,Joulupäivä,Christmas Day,True
+2018-12-26,Finland,2. joulupäivä,St. Stephen's Day,True
+2019-01-01,Finland,Uudenvuodenpäivä,New Year's Day,True
+2019-01-06,Finland,Loppiainen,Epiphany,True
+2019-04-19,Finland,Pitkäperjantai,Good Friday,False
+2019-04-21,Finland,Pääsiäispäivä,Easter Sunday,False
+2019-04-22,Finland,2. pääsiäispäivä,Easter Monday,False
+2019-05-01,Finland,Vappu,May Day,True
+2019-05-30,Finland,Helatorstai,Ascension Day,False
+2019-06-09,Finland,Helluntaipäivä,Pentecost,False
+2019-06-21,Finland,Juhannusaatto,Midsummer Eve,False
+2019-06-22,Finland,Juhannuspäivä,Midsummer Day,False
+2019-11-02,Finland,Pyhäinpäivä,All Saints' Day,False
+2019-12-06,Finland,Itsenäisyyspäivä,Independence Day,True
+2019-12-24,Finland,Jouluaatto,Christmas Eve,True
+2019-12-25,Finland,Joulupäivä,Christmas Day,True
+2019-12-26,Finland,2. joulupäivä,St. Stephen's Day,True
+2015-01-01,Norway,Første nyttårsdag,New Year's Day,True
+2015-04-02,Norway,Skjærtorsdag,Maundy Thursday,False
+2015-04-03,Norway,Langfredag,Good Friday,False
+2015-04-05,Norway,Første påskedag,Easter Sunday,False
+2015-04-06,Norway,Andre påskedag,Easter Monday,False
+2015-05-01,Norway,Første mai,Labour Day,True
+2015-05-14,Norway,Kristi himmelfartsdag,Ascension Day,False
+2015-05-17,Norway,Syttende mai,Constitution Day,True
+2015-05-24,Norway,Første pinsedag,Pentecost,False
+2015-05-25,Norway,Andre pinsedag,Whit Monday,False
+2015-12-25,Norway,Første juledag,Christmas Day,True
+2015-12-26,Norway,Andre juledag,St. Stephen's Day,True
+2016-01-01,Norway,Første nyttårsdag,New Year's Day,True
+2016-03-24,Norway,Skjærtorsdag,Maundy Thursday,False
+2016-03-25,Norway,Langfredag,Good Friday,False
+2016-03-27,Norway,Første påskedag,Easter Sunday,False
+2016-03-28,Norway,Andre påskedag,Easter Monday,False
+2016-05-01,Norway,Første mai,Labour Day,True
+2016-05-05,Norway,Kristi himmelfartsdag,Ascension Day,False
+2016-05-15,Norway,Første pinsedag,Pentecost,False
+2016-05-16,Norway,Andre pinsedag,Whit Monday,False
+2016-05-17,Norway,Syttende mai,Constitution Day,True
+2016-12-25,Norway,Første juledag,Christmas Day,True
+2016-12-26,Norway,Andre juledag,St. Stephen's Day,True
+2017-01-01,Norway,Første nyttårsdag,New Year's Day,True
+2017-04-13,Norway,Skjærtorsdag,Maundy Thursday,False
+2017-04-14,Norway,Langfredag,Good Friday,False
+2017-04-16,Norway,Første påskedag,Easter Sunday,False
+2017-04-17,Norway,Andre påskedag,Easter Monday,False
+2017-05-01,Norway,Første mai,Labour Day,True
+2017-05-17,Norway,Syttende mai,Constitution Day,True
+2017-05-25,Norway,Kristi himmelfartsdag,Ascension Day,False
+2017-06-04,Norway,Første pinsedag,Pentecost,False
+2017-06-05,Norway,Andre pinsedag,Whit Monday,False
+2017-12-25,Norway,Første juledag,Christmas Day,True
+2017-12-26,Norway,Andre juledag,St. Stephen's Day,True
+2018-01-01,Norway,Første nyttårsdag,New Year's Day,True
+2018-03-29,Norway,Skjærtorsdag,Maundy Thursday,False
+2018-03-30,Norway,Langfredag,Good Friday,False
+2018-04-01,Norway,Første påskedag,Easter Sunday,False
+2018-04-02,Norway,Andre påskedag,Easter Monday,False
+2018-05-01,Norway,Første mai,Labour Day,True
+2018-05-10,Norway,Kristi himmelfartsdag,Ascension Day,False
+2018-05-17,Norway,Syttende mai,Constitution Day,True
+2018-05-20,Norway,Første pinsedag,Pentecost,False
+2018-05-21,Norway,Andre pinsedag,Whit Monday,False
+2018-12-25,Norway,Første juledag,Christmas Day,True
+2018-12-26,Norway,Andre juledag,St. Stephen's Day,True
+2019-01-01,Norway,Første nyttårsdag,New Year's Day,True
+2019-04-18,Norway,Skjærtorsdag,Maundy Thursday,False
+2019-04-19,Norway,Langfredag,Good Friday,False
+2019-04-21,Norway,Første påskedag,Easter Sunday,False
+2019-04-22,Norway,Andre påskedag,Easter Monday,False
+2019-05-01,Norway,Første mai,Labour Day,True
+2019-05-17,Norway,Syttende mai,Constitution Day,True
+2019-05-30,Norway,Kristi himmelfartsdag,Ascension Day,False
+2019-06-09,Norway,Første pinsedag,Pentecost,False
+2019-06-10,Norway,Andre pinsedag,Whit Monday,False
+2019-12-25,Norway,Første juledag,Christmas Day,True
+2019-12-26,Norway,Andre juledag,St. Stephen's Day,True
+2015-01-01,Sweden,Nyårsdagen,New Year's Day,True
+2015-01-06,Sweden,Trettondedag jul,Epiphany,True
+2015-04-03,Sweden,Långfredagen,Good Friday,False
+2015-04-05,Sweden,Påskdagen,Easter Sunday,False
+2015-04-06,Sweden,Annandag påsk,Easter Monday,False
+2015-05-01,Sweden,Första maj,International Workers' Day,True
+2015-05-14,Sweden,Kristi himmelsfärds dag,Ascension Day,False
+2015-05-24,Sweden,Pingstdagen,Pentecost,False
+2015-06-06,Sweden,Sveriges nationaldag,National Day of Sweden,True
+2015-06-19,Sweden,Midsommarafton,Midsummer Eve,False
+2015-06-20,Sweden,Midsommar,Midsummer Day,False
+2015-10-31,Sweden,Alla helgons dag,All Saints' Day,False
+2015-12-24,Sweden,Julafton,Christmas Eve,True
+2015-12-25,Sweden,Juldagen,Christmas Day,True
+2015-12-26,Sweden,Annandag jul,St. Stephen's Day,True
+2015-12-31,Sweden,Nyårsafton,New Year's Eve,True
+2016-01-01,Sweden,Nyårsdagen,New Year's Day,True
+2016-01-06,Sweden,Trettondedag jul,Epiphany,True
+2016-03-25,Sweden,Långfredagen,Good Friday,False
+2016-03-27,Sweden,Påskdagen,Easter Sunday,False
+2016-03-28,Sweden,Annandag påsk,Easter Monday,False
+2016-05-01,Sweden,Första maj,International Workers' Day,True
+2016-05-05,Sweden,Kristi himmelsfärds dag,Ascension Day,False
+2016-05-15,Sweden,Pingstdagen,Pentecost,False
+2016-06-06,Sweden,Sveriges nationaldag,National Day of Sweden,True
+2016-06-24,Sweden,Midsommarafton,Midsummer Eve,False
+2016-06-25,Sweden,Midsommar,Midsummer Day,False
+2016-11-05,Sweden,Alla helgons dag,All Saints' Day,False
+2016-12-24,Sweden,Julafton,Christmas Eve,True
+2016-12-25,Sweden,Juldagen,Christmas Day,True
+2016-12-26,Sweden,Annandag jul,St. Stephen's Day,True
+2016-12-31,Sweden,Nyårsafton,New Year's Eve,True
+2017-01-01,Sweden,Nyårsdagen,New Year's Day,True
+2017-01-06,Sweden,Trettondedag jul,Epiphany,True
+2017-04-14,Sweden,Långfredagen,Good Friday,False
+2017-04-16,Sweden,Påskdagen,Easter Sunday,False
+2017-04-17,Sweden,Annandag påsk,Easter Monday,False
+2017-05-01,Sweden,Första maj,International Workers' Day,True
+2017-05-25,Sweden,Kristi himmelsfärds dag,Ascension Day,False
+2017-06-04,Sweden,Pingstdagen,Pentecost,False
+2017-06-06,Sweden,Sveriges nationaldag,National Day of Sweden,True
+2017-06-23,Sweden,Midsommarafton,Midsummer Eve,False
+2017-06-24,Sweden,Midsommar,Midsummer Day,False
+2017-11-04,Sweden,Alla helgons dag,All Saints' Day,False
+2017-12-24,Sweden,Julafton,Christmas Eve,True
+2017-12-25,Sweden,Juldagen,Christmas Day,True
+2017-12-26,Sweden,Annandag jul,St. Stephen's Day,True
+2017-12-31,Sweden,Nyårsafton,New Year's Eve,True
+2018-01-01,Sweden,Nyårsdagen,New Year's Day,True
+2018-01-06,Sweden,Trettondedag jul,Epiphany,True
+2018-03-30,Sweden,Långfredagen,Good Friday,False
+2018-04-01,Sweden,Påskdagen,Easter Sunday,False
+2018-04-02,Sweden,Annandag påsk,Easter Monday,False
+2018-05-01,Sweden,Första maj,International Workers' Day,True
+2018-05-10,Sweden,Kristi himmelsfärds dag,Ascension Day,False
+2018-05-20,Sweden,Pingstdagen,Pentecost,False
+2018-06-06,Sweden,Sveriges nationaldag,National Day of Sweden,True
+2018-06-22,Sweden,Midsommarafton,Midsummer Eve,False
+2018-06-23,Sweden,Midsommar,Midsummer Day,False
+2018-11-03,Sweden,Alla helgons dag,All Saints' Day,False
+2018-12-24,Sweden,Julafton,Christmas Eve,True
+2018-12-25,Sweden,Juldagen,Christmas Day,True
+2018-12-26,Sweden,Annandag jul,St. Stephen's Day,True
+2018-12-31,Sweden,Nyårsafton,New Year's Eve,True
+2019-01-01,Sweden,Nyårsdagen,New Year's Day,True
+2019-01-06,Sweden,Trettondedag jul,Epiphany,True
+2019-04-19,Sweden,Långfredagen,Good Friday,False
+2019-04-21,Sweden,Påskdagen,Easter Sunday,False
+2019-04-22,Sweden,Annandag påsk,Easter Monday,False
+2019-05-01,Sweden,Första maj,International Workers' Day,True
+2019-05-30,Sweden,Kristi himmelsfärds dag,Ascension Day,False
+2019-06-06,Sweden,Sveriges nationaldag,National Day of Sweden,True
+2019-06-09,Sweden,Pingstdagen,Pentecost,False
+2019-06-21,Sweden,Midsommarafton,Midsummer Eve,False
+2019-06-22,Sweden,Midsommar,Midsummer Day,False
+2019-11-02,Sweden,Alla helgons dag,All Saints' Day,False
+2019-12-24,Sweden,Julafton,Christmas Eve,True
+2019-12-25,Sweden,Juldagen,Christmas Day,True
+2019-12-26,Sweden,Annandag jul,St. Stephen's Day,True
+2019-12-31,Sweden,Nyårsafton,New Year's Eve,True
